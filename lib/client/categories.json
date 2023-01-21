@@ -1,0 +1,17 @@
+{
+  "categories": [
+    "SQL",
+    "Docker",
+    "Code",
+    "CMS",
+    "Linux",
+    "DevOps",
+    "Bash",
+    "Uncategorized"
+  ],
+  "difficulties": [
+    "Easy",
+    "Medium",
+    "Hard"
+  ]
+}
